@@ -1,70 +1,11 @@
-{"data":[
-  {
-    "status": "Booked",
-    "booking": {
-      "id": "Booked-id-01",
-      "type": "pickup",
-      "nearby": "New Friends Colony",
-      "slot": "01:04 PM",
-      "address": "81, B block, New Friends Colony,",
-      "note": "jaldi aa"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
     }
-  },
-
-  {
-    "status": "Booked",
-    "booking": {
-      "id": "Booked-id-02",
-      "type": "drop",
-      "nearby": "Maharani Bagh",
-      "slot": "01:03 PM",
-      "address": "82, B block, Civil Lines,",
-      "note": "jaldi aa"
-    }
-  },
-  {
-    "status": "Booked",
-    "booking": {
-      "id": "Booked-id-03",
-      "type": "pickup",
-      "nearby": "New Friends Colony",
-      "slot": "01:02 PM",
-      "address": "83, B block, New Friends Colony,",
-      "note": "jaldi aa"
-    }
-  },
-  {
-    "status": "Booked",
-    "booking": {
-      "id": "Booked-id-04",
-      "type": "drop",
-      "nearby": "Maharani Bagh",
-      "slot": "08:30 PM",
-      "address": "84, B block, Civil Lines,",
-      "note": "jaldi aa"
-    }
-  },
-  {
-    "status": "Booked",
-    "booking": {
-      "id": "Booked-id-05",
-      "type": "pickup",
-      "nearby": "New Friends Colony",
-      "slot": "09:00 PM",
-      "address": "85, B block, New Friends Colony,",
-      "note": "jaldi aa"
-    }
-  },
-  {
-    "status": "Booked",
-    "booking": {
-      "id": "Booked-id-06",
-      "type": "drop",
-      "nearby": "Maharani Bagh",
-      "slot": "09:30 PM",
-      "address": "81, B block, Civil Lines,",
-      "note": "jaldi aa"
-    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
 }
