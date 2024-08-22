@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "hello",
-       "booking": {
+      "booking": {
       "id": "Booked-id-02",
       "type": "drop",
       "nearby": "Maharani Bagh",
