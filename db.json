@@ -3,14 +3,12 @@
     {
       "id": 1,
       "title": "hello",
-      "booking": {
       "id": "Booked-id-02",
       "type": "drop",
       "nearby": "Maharani Bagh",
       "slot": "01:03 PM",
       "address": "82, B block, Civil Lines,",
       "note": "jaldi aa"
-    }
     }
   ],
   "profile": {
